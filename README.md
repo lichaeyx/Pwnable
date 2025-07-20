@@ -6,11 +6,11 @@
 variable size = 16   
 We want to call the function 'get_shell'  
 get_shell's address is '0x00000000004006aa'  
-To return's distance is 0x38
-->
+To return's distance is 0x38  
+->  
 [ Local Variable ]    // rbp-0x30 ~ rbp  
 [ Saved RBP ] // rbp  
-[ RET Addr ]   
+[ RET Addr ]  
 
 **2. Vulnerabilities**
 
