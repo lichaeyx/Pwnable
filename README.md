@@ -40,4 +40,4 @@ DH{flag}
 // [ NOTE ]  
 // I have to find the distance to return with assembly!! Don't trust C!!  
 // I have to do handray more TT  
-// Improving my literacy of Assembly Language is important task for me right now..
+// Enhancing my understanding of assembly language is a key priority for me at the moment I guess..
