@@ -3,7 +3,7 @@
 
 **1. Analysis**
 
-name size = 16, Receiving = 15
+name size = 16, Receiving = 15\n
 We want to call the function 'win'
 win's address is '40125b'
 return address is '0x7fffffffdfd8'
