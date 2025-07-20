@@ -1,7 +1,9 @@
 # Dreamhack : baby-bof
 [ Author : L1ya ]
 
-**1. Analysis**
+###################
+### 1. Analysis ###
+###################
 
 name size = 16, Receiving = 15  
 We want to call the function 'win'  
