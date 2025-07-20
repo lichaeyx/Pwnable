@@ -1,7 +1,5 @@
-# Pwnable [baby-bof]
-
-Dreamhack : baby-bof
-Author : L1ya
+# Dreamhack : baby-bof
+[ Author : L1ya ]
 
 **1. Analysis**
 
