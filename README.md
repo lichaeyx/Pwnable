@@ -26,6 +26,6 @@ I can get flag!!
 
 You mustn't be here! It's a vulnerability!
 
-// [ NOTE ]
+// [ NOTE ]  
 // It is important to Receiving value << size value ==> BoF?  
 // I want to challenge more difficult question!
