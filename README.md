@@ -1,13 +1,5 @@
 # Pwnable [baby-bof]
 
-name size = 16, Receiving = 15
---> if you input more than 15, over the sixteenth letters overflow
-
-We want to call the function 'win'
-win's address is '40125b'
-
-address '40125b' overflow to the return
-
 Dreamhack : baby-bof
 Author : L1ya
 
@@ -35,7 +27,6 @@ I can call 'win' function!
 I can get flag!!
 
 You mustn't be here! It's a vulnerability!
-DH{62228e6f20a8b71372f0eceb51537c7f94b8191651ea0636ed4e48857c5b340c}
 
 // It is important to Receiving value << size value ==> BoF?
 // I want to challenge more difficult question!
